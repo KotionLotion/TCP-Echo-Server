@@ -22,4 +22,11 @@ TCP echo server written in Go. It implements concurrency, logging, command handl
 
 go run server.go --port 4000"
 
+- Use commands/ phrases such as:
+-   hello
+-   goodbye
+-   /time
+-   /quit
+-   /echo
+  
 ## Link:
